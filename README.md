@@ -23,7 +23,7 @@
 #### [6. 자바 클래스(3)](https://devlog111.tistory.com/12)
 : 추상 클래스와 인터페이스
 
-#### [7. GUI프로그래밍 & 프로젝트 시작](https://devlog111.tistory.com/14)
+#### [7. GUI프로그래밍 & 프로젝트 시작](https://devlog111.tistory.com/13)
 : GUI 소개 및 프로젝트 제안서 시작
 
 ### 🗓️ 자바 실습
